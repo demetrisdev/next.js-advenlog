@@ -20,6 +20,7 @@ export default function ShareTravelPage() {
       </header>
       <main className={classes.main}>
         <form className={classes.form} action={formAction}>
+        {state.message && <p className={classes.error}>{state.message}</p>}
           <div className={classes.row}>
             <p>
               <label htmlFor="name">Your name</label>
@@ -48,7 +49,6 @@ export default function ShareTravelPage() {
             ></textarea>
           </p>
           <ImagePicker label="Your image" name="image" />
-          {state.message && <p>{state.message}</p>}
           <p className={classes.actions}>
             <TravelsFormSubmit />
           </p>

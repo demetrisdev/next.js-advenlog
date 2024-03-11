@@ -96,3 +96,13 @@
   color: #979797;
   cursor: not-allowed;
 }
+
+.error {
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  color: rgb(237, 108, 108);
+  font-weight: 600;
+  font-family: 'Montserrat', sans-serif;
+}
