@@ -52,3 +52,22 @@
     color: #e9e9e9;
   }
 }
+
+@media (max-width: 768px) {
+  .header {
+    gap: 3rem;
+    margin: 3rem auto 5rem auto;
+    width: 90%;
+    max-width: 75rem;
+    color: #ddd6cb;
+    font-size: 1rem;
+  }
+
+  .header p {
+    font-size: 1.5rem;
+  }  
+
+  .cta a {
+    font-size: 1rem;
+  }
+}
