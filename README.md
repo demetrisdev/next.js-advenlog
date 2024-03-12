@@ -27,6 +27,7 @@
 <h3 align='center'>Travelers Blog Page 🛫🌇</h3>
 
 <div align='center'>
+<img src='https://github.com/demetrisdev/next.js-advenlog/assets/112802137/158af2c0-9537-4aa5-a5b9-1a86b6101986'/>
 <img src='https://github.com/demetrisdev/next.js-advenlog/assets/112802137/e8d0b1bf-c659-4202-8771-1236ec02b218'/>
 <img src='https://github.com/demetrisdev/next.js-advenlog/assets/112802137/80f0b54b-c616-40dd-9f78-977b593373e9'/>
 </div>
